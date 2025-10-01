@@ -26,7 +26,7 @@ public void registerUser() throws InvalidAgeException {
 	System.out.println("User registered successfully!");
 }
 
-//getter methodds
+//getter methods
 public String getName() {
 	return name;
 }
