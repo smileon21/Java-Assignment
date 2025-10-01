@@ -1,0 +1,161 @@
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:Account Created
+New Balance: $1000.0
+Description: Initial deposit
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:Deposit
+Amount; $500.0
+New Balance: $1500.0
+Description: Deposit successful
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:Deposit Failed
+Amount; $-100.0
+New Balance: $1500.0
+Description: Invalid amount
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $1500.0
+Description: Balance inquiry
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:WITHDRAWAL
+Amount; $200.0
+New Balance: $1300.0
+Description: Withdrawal successful
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $1300.0
+Description: Balance inquiry
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:WITHDRAWAL
+Amount; $2000.0
+New Balance: $-700.0
+Description: Withdrawal successful
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $-700.0
+Description: Balance inquiry
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:WITHDRAWAL FAILED
+Amount; $-50.0
+New Balance: $-700.0
+Description: Insufficient funds
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:26:47
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $-700.0
+Description: Balance inquiry
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:Account Created
+New Balance: $1000.0
+Description: Initial deposit
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:Deposit
+Amount; $500.0
+New Balance: $1500.0
+Description: Deposit successful
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:Deposit Failed
+Amount; $-100.0
+New Balance: $1500.0
+Description: Invalid amount
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $1500.0
+Description: Balance inquiry
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:WITHDRAWAL
+Amount; $200.0
+New Balance: $1300.0
+Description: Withdrawal successful
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $1300.0
+Description: Balance inquiry
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $1300.0
+Description: Balance inquiry
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:WITHDRAWAL FAILED
+Amount; $-50.0
+New Balance: $1300.0
+Description: Insufficient funds
+===========================================
+
+==============================================
+Timestamp: 2025-09-13 21:34:43
+Account:Dawn Mungwini
+Transaction Type:BALANCE CHECK
+New Balance: $1300.0
+Description: Balance inquiry
+===========================================
+
